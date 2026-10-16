@@ -1,0 +1,3051 @@
+[
+  {
+    "name": "Universitas Indonesia",
+    "country": "Indonesia",
+    "domains": [
+      "ui.ac.id",
+      "alumni.ui.ac.id",
+      "sci.ui.ac.id",
+      "farmasi.ui.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ui.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Institut Teknologi Bandung",
+    "country": "Indonesia",
+    "domains": [
+      "itb.ac.id",
+      "mahasiswa.itb.ac.id",
+      "km.itb.ac.id",
+      "che.itb.ac.id"
+    ],
+    "web_pages": [
+      "https://www.itb.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Universitas Gadjah Mada",
+    "country": "Indonesia",
+    "domains": [
+      "ugm.ac.id",
+      "mail.ugm.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ugm.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DI Yogyakarta"
+  },
+  {
+    "name": "Institut Teknologi Sepuluh Nopember",
+    "country": "Indonesia",
+    "domains": [
+      "its.ac.id"
+    ],
+    "web_pages": [
+      "https://www.its.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Airlangga",
+    "country": "Indonesia",
+    "domains": [
+      "unair.ac.id",
+      "fisip.unair.ac.id",
+      "vokasi.unair.ac.id",
+      "fib.unair.ac.id",
+      "feb.unair.ac.id",
+      "fh.unair.ac.id",
+      "fk.unair.ac.id",
+      "psikologi.unair.ac.id",
+      "fkh.unair.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unair.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Padjadjaran",
+    "country": "Indonesia",
+    "domains": [
+      "unpad.ac.id",
+      "mail.unpad.ac.id",
+      "fe.unpad.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unpad.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Universitas Diponegoro",
+    "country": "Indonesia",
+    "domains": [
+      "undip.ac.id",
+      "students.undip.ac.id",
+      "live.undip.ac.id",
+      "lecturer.undip.ac.id",
+      "student.undip.ac.id",
+      "fk.undip.ac.id",
+      "pwk.undip.ac.id"
+    ],
+    "web_pages": [
+      "https://www.undip.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Universitas Brawijaya",
+    "country": "Indonesia",
+    "domains": [
+      "ub.ac.id",
+      "student.ub.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ub.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "IPB University",
+    "country": "Indonesia",
+    "domains": [
+      "ipb.ac.id",
+      "apps.ipb.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ipb.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Universitas Sebelas Maret",
+    "country": "Indonesia",
+    "domains": [
+      "uns.ac.id",
+      "student.uns.ac.id",
+      "staff.uns.ac.id",
+      "unit.uns.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uns.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Universitas Hasanuddin",
+    "country": "Indonesia",
+    "domains": [
+      "unhas.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unhas.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sulawesi Selatan"
+  },
+  {
+    "name": "Universitas Sumatera Utara",
+    "country": "Indonesia",
+    "domains": [
+      "usu.ac.id"
+    ],
+    "web_pages": [
+      "https://www.usu.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sumatera Utara"
+  },
+  {
+    "name": "Universitas Andalas",
+    "country": "Indonesia",
+    "domains": [
+      "unand.ac.id",
+      "law.unand.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unand.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sumatera Barat"
+  },
+  {
+    "name": "Universitas Sriwijaya",
+    "country": "Indonesia",
+    "domains": [
+      "unsri.ac.id",
+      "fisip.unsri.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unsri.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sumatera Selatan"
+  },
+  {
+    "name": "Universitas Syiah Kuala",
+    "country": "Indonesia",
+    "domains": [
+      "usk.ac.id",
+      "unsyiah.ac.id"
+    ],
+    "web_pages": [
+      "https://www.usk.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Aceh"
+  },
+  {
+    "name": "Universitas Udayana",
+    "country": "Indonesia",
+    "domains": [
+      "unud.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unud.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Bali"
+  },
+  {
+    "name": "Universitas Sam Ratulangi",
+    "country": "Indonesia",
+    "domains": [
+      "unsrat.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unsrat.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sulawesi Utara"
+  },
+  {
+    "name": "Universitas Lambung Mangkurat",
+    "country": "Indonesia",
+    "domains": [
+      "ulm.ac.id",
+      "unlam.ac.id",
+      "mhs.ulm.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ulm.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Kalimantan Selatan"
+  },
+  {
+    "name": "Universitas Mulawarman",
+    "country": "Indonesia",
+    "domains": [
+      "unmul.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unmul.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Kalimantan Timur"
+  },
+  {
+    "name": "Universitas Tanjungpura",
+    "country": "Indonesia",
+    "domains": [
+      "untan.ac.id",
+      "student.untan.ac.id"
+    ],
+    "web_pages": [
+      "https://www.untan.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Kalimantan Barat"
+  },
+  {
+    "name": "Universitas Mataram",
+    "country": "Indonesia",
+    "domains": [
+      "unram.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unram.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Nusa Tenggara Barat"
+  },
+  {
+    "name": "Universitas Cenderawasih",
+    "country": "Indonesia",
+    "domains": [
+      "uncen.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uncen.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Papua"
+  },
+  {
+    "name": "Universitas Pattimura",
+    "country": "Indonesia",
+    "domains": [
+      "unpatti.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unpatti.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Maluku"
+  },
+  {
+    "name": "Universitas Negeri Jakarta",
+    "country": "Indonesia",
+    "domains": [
+      "unj.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unj.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Pendidikan Indonesia",
+    "country": "Indonesia",
+    "domains": [
+      "upi.edu",
+      "upi.ac.id",
+      "student.upi.edu"
+    ],
+    "web_pages": [
+      "https://www.upi.edu/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Universitas Negeri Yogyakarta",
+    "country": "Indonesia",
+    "domains": [
+      "uny.ac.id",
+      "student.uny.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uny.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DI Yogyakarta"
+  },
+  {
+    "name": "Universitas Negeri Semarang",
+    "country": "Indonesia",
+    "domains": [
+      "unnes.ac.id",
+      "students.unnes.ac.id",
+      "mail.unnes.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unnes.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Universitas Negeri Surabaya",
+    "country": "Indonesia",
+    "domains": [
+      "unesa.ac.id",
+      "mhs.unesa.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unesa.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Negeri Malang",
+    "country": "Indonesia",
+    "domains": [
+      "um.ac.id",
+      "students.um.ac.id"
+    ],
+    "web_pages": [
+      "https://www.um.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Bina Nusantara",
+    "country": "Indonesia",
+    "domains": [
+      "binus.ac.id",
+      "binus.edu"
+    ],
+    "web_pages": [
+      "https://www.binus.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Telkom",
+    "country": "Indonesia",
+    "domains": [
+      "telkomuniversity.ac.id"
+    ],
+    "web_pages": [
+      "https://www.telkomuniversity.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Universitas Trisakti",
+    "country": "Indonesia",
+    "domains": [
+      "trisakti.ac.id"
+    ],
+    "web_pages": [
+      "https://www.trisakti.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Katolik Parahyangan",
+    "country": "Indonesia",
+    "domains": [
+      "unpar.ac.id",
+      "student.unpar.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unpar.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Universitas Islam Indonesia",
+    "country": "Indonesia",
+    "domains": [
+      "uii.ac.id",
+      "students.uii.ac.id",
+      "alumni.uii.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uii.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DI Yogyakarta"
+  },
+  {
+    "name": "Universitas Muhammadiyah Yogyakarta",
+    "country": "Indonesia",
+    "domains": [
+      "umy.ac.id"
+    ],
+    "web_pages": [
+      "https://www.umy.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DI Yogyakarta"
+  },
+  {
+    "name": "Universitas Muhammadiyah Surakarta",
+    "country": "Indonesia",
+    "domains": [
+      "ums.ac.id",
+      "student.ums.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ums.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Universitas Muhammadiyah Malang",
+    "country": "Indonesia",
+    "domains": [
+      "umm.ac.id"
+    ],
+    "web_pages": [
+      "https://www.umm.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Surabaya",
+    "country": "Indonesia",
+    "domains": [
+      "ubaya.ac.id",
+      "staff.ubaya.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ubaya.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Kristen Petra",
+    "country": "Indonesia",
+    "domains": [
+      "petra.ac.id"
+    ],
+    "web_pages": [
+      "https://www.petra.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Politeknik Negeri Bandung",
+    "country": "Indonesia",
+    "domains": [
+      "polban.ac.id"
+    ],
+    "web_pages": [
+      "https://www.polban.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Politeknik Elektronika Negeri Surabaya",
+    "country": "Indonesia",
+    "domains": [
+      "pens.ac.id"
+    ],
+    "web_pages": [
+      "https://www.pens.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Politeknik Negeri Jakarta",
+    "country": "Indonesia",
+    "domains": [
+      "pnj.ac.id",
+      "grafika.pnj.ac.id"
+    ],
+    "web_pages": [
+      "https://www.pnj.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Politeknik Negeri Semarang",
+    "country": "Indonesia",
+    "domains": [
+      "polines.ac.id"
+    ],
+    "web_pages": [
+      "https://www.polines.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "UIN Syarif Hidayatullah Jakarta",
+    "country": "Indonesia",
+    "domains": [
+      "uinjkt.ac.id",
+      "mhs.uinjkt.ac.id",
+      "apps.uinjkt.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uinjkt.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Banten"
+  },
+  {
+    "name": "UIN Sunan Kalijaga Yogyakarta",
+    "country": "Indonesia",
+    "domains": [
+      "uin-suka.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uin-suka.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DI Yogyakarta"
+  },
+  {
+    "name": "SMA Negeri 1 Jakarta",
+    "country": "Indonesia",
+    "domains": [
+      "sman1jakarta.sch.id"
+    ],
+    "web_pages": [
+      "http://sman1jakarta.sch.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "SMA Negeri 8 Jakarta",
+    "country": "Indonesia",
+    "domains": [
+      "sman8jkt.sch.id"
+    ],
+    "web_pages": [
+      "http://sman8jkt.sch.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "SMA Negeri 3 Bandung",
+    "country": "Indonesia",
+    "domains": [
+      "sman3bdg.sch.id"
+    ],
+    "web_pages": [
+      "http://sman3bdg.sch.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "SMA Negeri 1 Yogyakarta",
+    "country": "Indonesia",
+    "domains": [
+      "sman1teladan.sch.id",
+      "sman1yogya.sch.id"
+    ],
+    "web_pages": [
+      "http://sman1teladan.sch.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DI Yogyakarta"
+  },
+  {
+    "name": "SMA Negeri 3 Semarang",
+    "country": "Indonesia",
+    "domains": [
+      "sman3-smg.sch.id"
+    ],
+    "web_pages": [
+      "http://sman3-smg.sch.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "SMA Negeri 5 Surabaya",
+    "country": "Indonesia",
+    "domains": [
+      "sman5surabaya.sch.id"
+    ],
+    "web_pages": [
+      "http://sman5surabaya.sch.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "SMA Negeri 1 Medan",
+    "country": "Indonesia",
+    "domains": [
+      "sman1medan.sch.id"
+    ],
+    "web_pages": [
+      "http://sman1medan.sch.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sumatera Utara"
+  },
+  {
+    "name": "SMK Negeri 1 Cimahi",
+    "country": "Indonesia",
+    "domains": [
+      "smkn1-cmi.sch.id"
+    ],
+    "web_pages": [
+      "https://www.smkn1-cmi.sch.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "SMK Negeri 2 Surabaya",
+    "country": "Indonesia",
+    "domains": [
+      "smkn2sby.sch.id"
+    ],
+    "web_pages": [
+      "http://smkn2sby.sch.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "SMK Negeri 2 Yogyakarta",
+    "country": "Indonesia",
+    "domains": [
+      "smk2depok.sch.id",
+      "smkn2yk.sch.id"
+    ],
+    "web_pages": [
+      "http://smkn2yk.sch.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DI Yogyakarta"
+  },
+  {
+    "name": "Universitas Multimedia Nusantara",
+    "country": "Indonesia",
+    "domains": [
+      "umn.ac.id",
+      "student.umn.ac.id",
+      "lecturer.umn.ac.id"
+    ],
+    "web_pages": [
+      "https://www.umn.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Banten"
+  },
+  {
+    "name": "Universitas Kristen Satya Wacana",
+    "country": "Indonesia",
+    "domains": [
+      "uksw.edu",
+      "student.uksw.edu",
+      "staff.uksw.edu"
+    ],
+    "web_pages": [
+      "https://www.uksw.edu/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Universitas Katolik Soegijapranata",
+    "country": "Indonesia",
+    "domains": [
+      "unika.ac.id",
+      "student.unika.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unika.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Universitas Riau",
+    "country": "Indonesia",
+    "domains": [
+      "unri.ac.id",
+      "student.unri.ac.id",
+      "lecturer.unri.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unri.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Riau"
+  },
+  {
+    "name": "Universitas Sultan Ageng Tirtayasa",
+    "country": "Indonesia",
+    "domains": [
+      "untirta.ac.id"
+    ],
+    "web_pages": [
+      "https://untirta.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Banten"
+  },
+  {
+    "name": "Universitas Katolik Indonesia Atma Jaya",
+    "country": "Indonesia",
+    "domains": [
+      "atmajaya.ac.id",
+      "student.atmajaya.ac.id"
+    ],
+    "web_pages": [
+      "https://www.atmajaya.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Politeknik Keuangan Negara STAN",
+    "country": "Indonesia",
+    "domains": [
+      "pknstan.ac.id"
+    ],
+    "web_pages": [
+      "https://www.pknstan.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Banten"
+  },
+  {
+    "name": "Universitas Singaperbangsa Karawang",
+    "country": "Indonesia",
+    "domains": [
+      "unsika.ac.id",
+      "student.unsika.ac.id",
+      "staff.unsika.ac.id",
+      "fisip.unsika.ac.id",
+      "fkip.unsika.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unsika.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "LSPR Communication & Business Institute",
+    "country": "Indonesia",
+    "domains": [
+      "lspr.edu"
+    ],
+    "web_pages": [
+      "https://www.lspr.edu/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Sekolah Bisnis dan Manajemen ITB",
+    "country": "Indonesia",
+    "domains": [
+      "sbm-itb.ac.id"
+    ],
+    "web_pages": [
+      "https://www.sbm.itb.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Universitas Paramadina",
+    "country": "Indonesia",
+    "domains": [
+      "paramadina.ac.id",
+      "students.paramadina.ac.id",
+      "policy.paramadina.ac.id"
+    ],
+    "web_pages": [
+      "https://www.paramadina.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Pembangunan Nasional Veteran Jakarta",
+    "country": "Indonesia",
+    "domains": [
+      "upnvj.ac.id"
+    ],
+    "web_pages": [
+      "https://www.upnvj.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Tarumanagara",
+    "country": "Indonesia",
+    "domains": [
+      "untar.ac.id",
+      "stu.untar.ac.id",
+      "fe.untar.ac.id",
+      "fsrd.untar.ac.id",
+      "fh.untar.ac.id"
+    ],
+    "web_pages": [
+      "https://www.untar.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Katolik Widya Mandala Surabaya",
+    "country": "Indonesia",
+    "domains": [
+      "ukwms.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ukwms.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Politeknik Statistika STIS",
+    "country": "Indonesia",
+    "domains": [
+      "stis.ac.id"
+    ],
+    "web_pages": [
+      "https://www.stis.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Terbuka",
+    "country": "Indonesia",
+    "domains": [
+      "ut.ac.id",
+      "ecampus.ut.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ut.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Banten"
+  },
+  {
+    "name": "UIN Prof. K.H. Saifuddin Zuhri Purwokerto",
+    "country": "Indonesia",
+    "domains": [
+      "uinsaizu.ac.id",
+      "mhs.uinsaizu.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uinsaizu.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Universitas Pendidikan Ganesha",
+    "country": "Indonesia",
+    "domains": [
+      "undiksha.ac.id"
+    ],
+    "web_pages": [
+      "https://www.undiksha.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Bali"
+  },
+  {
+    "name": "Universitas Atma Jaya Yogyakarta",
+    "country": "Indonesia",
+    "domains": [
+      "uajy.ac.id",
+      "students.uajy.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uajy.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DI Yogyakarta"
+  },
+  {
+    "name": "Universitas Islam Malang",
+    "country": "Indonesia",
+    "domains": [
+      "unisma.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unisma.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Islam Riau",
+    "country": "Indonesia",
+    "domains": [
+      "uir.ac.id",
+      "student.uir.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uir.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Riau"
+  },
+  {
+    "name": "Universitas Jenderal Soedirman",
+    "country": "Indonesia",
+    "domains": [
+      "unsoed.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unsoed.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Universitas Jember",
+    "country": "Indonesia",
+    "domains": [
+      "unej.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unej.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+    "country": "Indonesia",
+    "domains": [
+      "upnyk.ac.id",
+      "student.upnyk.ac.id"
+    ],
+    "web_pages": [
+      "https://www.upnyk.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DI Yogyakarta"
+  },
+  {
+    "name": "Universitas Bina Sarana Informatika",
+    "country": "Indonesia",
+    "domains": [
+      "bsi.ac.id"
+    ],
+    "web_pages": [
+      "https://www.bsi.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Negeri Makassar",
+    "country": "Indonesia",
+    "domains": [
+      "unm.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unm.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sulawesi Selatan"
+  },
+  {
+    "name": "Universitas Pancasila",
+    "country": "Indonesia",
+    "domains": [
+      "univpancasila.ac.id"
+    ],
+    "web_pages": [
+      "https://univpancasila.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "UIN Walisongo Semarang",
+    "country": "Indonesia",
+    "domains": [
+      "walisongo.ac.id"
+    ],
+    "web_pages": [
+      "https://www.walisongo.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Institut Kesenian Jakarta",
+    "country": "Indonesia",
+    "domains": [
+      "ikj.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ikj.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Jambi",
+    "country": "Indonesia",
+    "domains": [
+      "unja.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unja.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jambi"
+  },
+  {
+    "name": "Universitas Sanata Dharma",
+    "country": "Indonesia",
+    "domains": [
+      "usd.ac.id",
+      "dosen.usd.ac.id"
+    ],
+    "web_pages": [
+      "https://www.usd.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DI Yogyakarta"
+  },
+  {
+    "name": "Universitas Muhammadiyah Prof. Dr. HAMKA",
+    "country": "Indonesia",
+    "domains": [
+      "uhamka.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uhamka.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Multimedia Nusantara Polytechnic",
+    "country": "Indonesia",
+    "domains": [
+      "mnp.ac.id",
+      "lecturer.mnp.ac.id"
+    ],
+    "web_pages": [
+      "https://www.mnp.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Banten"
+  },
+  {
+    "name": "Universitas Muhammadiyah Kalimantan Timur",
+    "country": "Indonesia",
+    "domains": [
+      "umkt.ac.id"
+    ],
+    "web_pages": [
+      "https://www.umkt.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Kalimantan Timur"
+  },
+  {
+    "name": "Universitas Maritim Raja Ali Haji",
+    "country": "Indonesia",
+    "domains": [
+      "umrah.ac.id",
+      "student.umrah.ac.id"
+    ],
+    "web_pages": [
+      "https://www.umrah.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Kepulauan Riau"
+  },
+  {
+    "name": "Sekolah Tinggi Filsafat Theologi Jakarta",
+    "country": "Indonesia",
+    "domains": [
+      "stftjakarta.ac.id"
+    ],
+    "web_pages": [
+      "https://www.stftjakarta.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Institut Teknologi Telkom Purwokerto",
+    "country": "Indonesia",
+    "domains": [
+      "ittelkom-pwt.ac.id"
+    ],
+    "web_pages": [
+      "https://ittelkom-pwt.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Universitas Ciputra Surabaya",
+    "country": "Indonesia",
+    "domains": [
+      "ciputra.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ciputra.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Pamulang",
+    "country": "Indonesia",
+    "domains": [
+      "unpam.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unpam.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Banten"
+  },
+  {
+    "name": "Universitas Malikussaleh",
+    "country": "Indonesia",
+    "domains": [
+      "unimal.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unimal.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Aceh"
+  },
+  {
+    "name": "Universitas Islam Sultan Agung",
+    "country": "Indonesia",
+    "domains": [
+      "unissula.ac.id",
+      "std.unissula.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unissula.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Sekolah Tinggi Hukum Indonesia Jentera",
+    "country": "Indonesia",
+    "domains": [
+      "jentera.ac.id"
+    ],
+    "web_pages": [
+      "https://www.jentera.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Kristen Duta Wacana",
+    "country": "Indonesia",
+    "domains": [
+      "ukdw.ac.id",
+      "ti.ukdw.ac.id",
+      "staff.ukdw.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ukdw.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DI Yogyakarta"
+  },
+  {
+    "name": "UIN Sumatera Utara",
+    "country": "Indonesia",
+    "domains": [
+      "uinsu.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uinsu.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sumatera Utara"
+  },
+  {
+    "name": "Institut Agama Islam Tazkia",
+    "country": "Indonesia",
+    "domains": [
+      "tazkia.ac.id",
+      "student.tazkia.ac.id"
+    ],
+    "web_pages": [
+      "https://www.tazkia.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "UIN Antasari Banjarmasin",
+    "country": "Indonesia",
+    "domains": [
+      "uin-antasari.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uin-antasari.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Kalimantan Selatan"
+  },
+  {
+    "name": "Universitas Esa Unggul",
+    "country": "Indonesia",
+    "domains": [
+      "esaunggul.ac.id"
+    ],
+    "web_pages": [
+      "https://www.esaunggul.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Tidar",
+    "country": "Indonesia",
+    "domains": [
+      "untidar.ac.id"
+    ],
+    "web_pages": [
+      "https://www.untidar.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Universitas Negeri Medan",
+    "country": "Indonesia",
+    "domains": [
+      "unimed.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unimed.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sumatera Utara"
+  },
+  {
+    "name": "Universitas Nusa Cendana",
+    "country": "Indonesia",
+    "domains": [
+      "undana.ac.id",
+      "staf.undana.ac.id"
+    ],
+    "web_pages": [
+      "https://www.undana.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Nusa Tenggara Timur"
+  },
+  {
+    "name": "UPN Veteran Jawa Timur",
+    "country": "Indonesia",
+    "domains": [
+      "upnjatim.ac.id"
+    ],
+    "web_pages": [
+      "https://www.upnjatim.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Islam Internasional Indonesia",
+    "country": "Indonesia",
+    "domains": [
+      "uiii.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uiii.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Universitas Pelita Harapan",
+    "country": "Indonesia",
+    "domains": [
+      "uph.edu"
+    ],
+    "web_pages": [
+      "https://www.uph.edu/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Banten"
+  },
+  {
+    "name": "IAIN Palopo",
+    "country": "Indonesia",
+    "domains": [
+      "iainpalopo.ac.id"
+    ],
+    "web_pages": [
+      "https://www.iainpalopo.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sulawesi Selatan"
+  },
+  {
+    "name": "Universitas Negeri Gorontalo",
+    "country": "Indonesia",
+    "domains": [
+      "ung.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ung.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Gorontalo"
+  },
+  {
+    "name": "UIN Raden Fatah Palembang",
+    "country": "Indonesia",
+    "domains": [
+      "radenfatah.ac.id"
+    ],
+    "web_pages": [
+      "https://radenfatah.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sumatera Selatan"
+  },
+  {
+    "name": "UIN Ar-Raniry Banda Aceh",
+    "country": "Indonesia",
+    "domains": [
+      "ar-raniry.ac.id"
+    ],
+    "web_pages": [
+      "https://ar-raniry.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Aceh"
+  },
+  {
+    "name": "Universitas Pembangunan Jaya",
+    "country": "Indonesia",
+    "domains": [
+      "upj.ac.id"
+    ],
+    "web_pages": [
+      "https://www.upj.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Banten"
+  },
+  {
+    "name": "Universitas Raharja",
+    "country": "Indonesia",
+    "domains": [
+      "raharja.info"
+    ],
+    "web_pages": [
+      "https://raharja.info/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Banten"
+  },
+  {
+    "name": "Universitas Mercu Buana Jakarta",
+    "country": "Indonesia",
+    "domains": [
+      "mercubuana.ac.id"
+    ],
+    "web_pages": [
+      "https://www.mercubuana.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas 17 Agustus 1945 Surabaya",
+    "country": "Indonesia",
+    "domains": [
+      "untag-sby.ac.id"
+    ],
+    "web_pages": [
+      "https://www.untag-sby.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Kristen Krida Wacana",
+    "country": "Indonesia",
+    "domains": [
+      "ukrida.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ukrida.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "UIN Sunan Gunung Djati Bandung",
+    "country": "Indonesia",
+    "domains": [
+      "uinsgd.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uinsgd.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Universitas Pakuan",
+    "country": "Indonesia",
+    "domains": [
+      "unpak.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unpak.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "UIN Maulana Malik Ibrahim Malang",
+    "country": "Indonesia",
+    "domains": [
+      "uin-malang.ac.id",
+      "syariah.uin-malang.ac.id",
+      "bsi.uin-malang.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uin-malang.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Indonesia Banking School",
+    "country": "Indonesia",
+    "domains": [
+      "ibs.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ibs.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Siliwangi",
+    "country": "Indonesia",
+    "domains": [
+      "unsil.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unsil.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Universitas Muhammadiyah Pontianak",
+    "country": "Indonesia",
+    "domains": [
+      "unmuhpnk.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unmuhpnk.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Kalimantan Barat"
+  },
+  {
+    "name": "Prasetiya Mulya Business School",
+    "country": "Indonesia",
+    "domains": [
+      "pmbs.ac.id"
+    ],
+    "web_pages": [
+      "https://www.pmbs.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Banten"
+  },
+  {
+    "name": "Institut Pemerintahan Dalam Negeri",
+    "country": "Indonesia",
+    "domains": [
+      "ipdn.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ipdn.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Domain Mahasiswa Indonesia",
+    "country": "Indonesia",
+    "domains": [
+      "student.ac.id",
+      "uns.student.ac.id"
+    ],
+    "web_pages": [
+      "https://student.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Indonesia"
+  },
+  {
+    "name": "Institut Seni Indonesia",
+    "country": "Indonesia",
+    "domains": [
+      "isi.ac.id"
+    ],
+    "web_pages": [
+      "https://isi.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DI Yogyakarta"
+  },
+  {
+    "name": "Universitas Teuku Umar",
+    "country": "Indonesia",
+    "domains": [
+      "utu.ac.id"
+    ],
+    "web_pages": [
+      "https://www.utu.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Aceh"
+  },
+  {
+    "name": "Universitas Darussalam Gontor",
+    "country": "Indonesia",
+    "domains": [
+      "gontor.ac.id",
+      "unida.gontor.ac.id"
+    ],
+    "web_pages": [
+      "https://unida.gontor.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Hang Tuah",
+    "country": "Indonesia",
+    "domains": [
+      "hangtuah.ac.id"
+    ],
+    "web_pages": [
+      "https://www.hangtuah.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Merdeka Malang",
+    "country": "Indonesia",
+    "domains": [
+      "unmer.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unmer.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas AMIKOM Yogyakarta",
+    "country": "Indonesia",
+    "domains": [
+      "amikom.ac.id"
+    ],
+    "web_pages": [
+      "https://www.amikom.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DI Yogyakarta"
+  },
+  {
+    "name": "Universitas Muhammadiyah Makassar",
+    "country": "Indonesia",
+    "domains": [
+      "unismuh.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unismuh.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sulawesi Selatan"
+  },
+  {
+    "name": "Universitas Islam Bandung",
+    "country": "Indonesia",
+    "domains": [
+      "unisba.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unisba.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Poltekkes Kemenkes Jakarta II",
+    "country": "Indonesia",
+    "domains": [
+      "poltekkesjkt2.ac.id"
+    ],
+    "web_pages": [
+      "https://www.poltekkesjkt2.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Nahdlatul Ulama Surabaya",
+    "country": "Indonesia",
+    "domains": [
+      "unusa.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unusa.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Muhammadiyah Jakarta",
+    "country": "Indonesia",
+    "domains": [
+      "umj.ac.id"
+    ],
+    "web_pages": [
+      "https://www.umj.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Muslim Indonesia",
+    "country": "Indonesia",
+    "domains": [
+      "umi.ac.id"
+    ],
+    "web_pages": [
+      "https://www.umi.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sulawesi Selatan"
+  },
+  {
+    "name": "UIN Sunan Ampel Surabaya",
+    "country": "Indonesia",
+    "domains": [
+      "uinsa.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uinsa.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Bhayangkara Jakarta Raya",
+    "country": "Indonesia",
+    "domains": [
+      "ubharajaya.ac.id",
+      "dsn.ubharajaya.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ubharajaya.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "UIN Imam Bonjol Padang",
+    "country": "Indonesia",
+    "domains": [
+      "uinib.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uinib.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sumatera Barat"
+  },
+  {
+    "name": "Universitas Gunadarma",
+    "country": "Indonesia",
+    "domains": [
+      "gunadarma.ac.id",
+      "staff.gunadarma.ac.id"
+    ],
+    "web_pages": [
+      "https://www.gunadarma.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Politeknik Negeri Jember",
+    "country": "Indonesia",
+    "domains": [
+      "polije.ac.id"
+    ],
+    "web_pages": [
+      "https://www.polije.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Nahdlatul Ulama Indonesia",
+    "country": "Indonesia",
+    "domains": [
+      "unusia.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unusia.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Muhammadiyah Sumatera Utara",
+    "country": "Indonesia",
+    "domains": [
+      "umsu.ac.id"
+    ],
+    "web_pages": [
+      "https://www.umsu.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sumatera Utara"
+  },
+  {
+    "name": "Southeast Asia Bible Seminary (SAAT)",
+    "country": "Indonesia",
+    "domains": [
+      "seabs.ac.id"
+    ],
+    "web_pages": [
+      "https://www.seabs.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "UIN Sulthan Thaha Saifuddin Jambi",
+    "country": "Indonesia",
+    "domains": [
+      "uinjambi.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uinjambi.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jambi"
+  },
+  {
+    "name": "Universitas PGRI Semarang",
+    "country": "Indonesia",
+    "domains": [
+      "upgris.ac.id"
+    ],
+    "web_pages": [
+      "https://www.upgris.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Universitas Dhyana Pura Bali",
+    "country": "Indonesia",
+    "domains": [
+      "undhirabali.ac.id"
+    ],
+    "web_pages": [
+      "https://undhirabali.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Bali"
+  },
+  {
+    "name": "Universitas Muria Kudus",
+    "country": "Indonesia",
+    "domains": [
+      "umk.ac.id"
+    ],
+    "web_pages": [
+      "https://www.umk.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Universitas Respati Indonesia",
+    "country": "Indonesia",
+    "domains": [
+      "respati.ac.id"
+    ],
+    "web_pages": [
+      "https://www.respati.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Institut Teknologi Kalimantan",
+    "country": "Indonesia",
+    "domains": [
+      "itk.ac.id",
+      "lecturer.itk.ac.id"
+    ],
+    "web_pages": [
+      "https://www.itk.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Kalimantan Timur"
+  },
+  {
+    "name": "IAIN Ponorogo",
+    "country": "Indonesia",
+    "domains": [
+      "iainponorogo.ac.id"
+    ],
+    "web_pages": [
+      "https://www.iainponorogo.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "IAIN Madura",
+    "country": "Indonesia",
+    "domains": [
+      "iainmadura.ac.id"
+    ],
+    "web_pages": [
+      "https://www.iainmadura.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Lampung",
+    "country": "Indonesia",
+    "domains": [
+      "unila.ac.id",
+      "fisip.unila.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unila.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Lampung"
+  },
+  {
+    "name": "Universitas Wahid Hasyim Semarang",
+    "country": "Indonesia",
+    "domains": [
+      "unwahas.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unwahas.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Politeknik ATMI Surakarta",
+    "country": "Indonesia",
+    "domains": [
+      "atmi.ac.id"
+    ],
+    "web_pages": [
+      "https://www.atmi.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Universitas Semarang",
+    "country": "Indonesia",
+    "domains": [
+      "usm.ac.id"
+    ],
+    "web_pages": [
+      "https://www.usm.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "UIN K.H. Abdurrahman Wahid Pekalongan",
+    "country": "Indonesia",
+    "domains": [
+      "uingusdur.ac.id"
+    ],
+    "web_pages": [
+      "https://uingusdur.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Universitas Negeri Padang",
+    "country": "Indonesia",
+    "domains": [
+      "unp.ac.id",
+      "fis.unp.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unp.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sumatera Barat"
+  },
+  {
+    "name": "Universitas Bakrie",
+    "country": "Indonesia",
+    "domains": [
+      "bakrie.ac.id"
+    ],
+    "web_pages": [
+      "https://www.bakrie.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Budi Luhur",
+    "country": "Indonesia",
+    "domains": [
+      "ubl.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ubl.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "UIN Raden Mas Said Surakarta",
+    "country": "Indonesia",
+    "domains": [
+      "uinsaid.ac.id",
+      "staff.uinsaid.ac.id"
+    ],
+    "web_pages": [
+      "https://uinsaid.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Politeknik Negeri Bali",
+    "country": "Indonesia",
+    "domains": [
+      "pnb.ac.id"
+    ],
+    "web_pages": [
+      "https://www.pnb.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Bali"
+  },
+  {
+    "name": "School of Government and Public Policy Indonesia",
+    "country": "Indonesia",
+    "domains": [
+      "sgpp.ac.id"
+    ],
+    "web_pages": [
+      "https://www.sgpp.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Politeknik Negeri Sriwijaya",
+    "country": "Indonesia",
+    "domains": [
+      "polsri.ac.id"
+    ],
+    "web_pages": [
+      "https://www.polsri.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sumatera Selatan"
+  },
+  {
+    "name": "Institut Teknologi Nasional Bandung",
+    "country": "Indonesia",
+    "domains": [
+      "itenas.ac.id"
+    ],
+    "web_pages": [
+      "https://www.itenas.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "IAIN Langsa",
+    "country": "Indonesia",
+    "domains": [
+      "iainlangsa.ac.id"
+    ],
+    "web_pages": [
+      "https://www.iainlangsa.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Aceh"
+  },
+  {
+    "name": "Universitas Ma Chung",
+    "country": "Indonesia",
+    "domains": [
+      "machung.ac.id"
+    ],
+    "web_pages": [
+      "https://www.machung.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Lancang Kuning",
+    "country": "Indonesia",
+    "domains": [
+      "unilak.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unilak.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Riau"
+  },
+  {
+    "name": "Universitas Bangka Belitung",
+    "country": "Indonesia",
+    "domains": [
+      "ubb.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ubb.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Bangka Belitung"
+  },
+  {
+    "name": "Universitas YARSI",
+    "country": "Indonesia",
+    "domains": [
+      "yarsi.ac.id"
+    ],
+    "web_pages": [
+      "https://www.yarsi.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Samudra",
+    "country": "Indonesia",
+    "domains": [
+      "unsam.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unsam.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Aceh"
+  },
+  {
+    "name": "Politeknik Perkapalan Negeri Surabaya",
+    "country": "Indonesia",
+    "domains": [
+      "ppns.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ppns.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "UIN Ponorogo",
+    "country": "Indonesia",
+    "domains": [
+      "uinponorogo.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uinponorogo.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "IAIN Sultan Amai Gorontalo",
+    "country": "Indonesia",
+    "domains": [
+      "iaingorontalo.ac.id"
+    ],
+    "web_pages": [
+      "https://iaingorontalo.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Gorontalo"
+  },
+  {
+    "name": "Universitas PGRI Adi Buana Surabaya",
+    "country": "Indonesia",
+    "domains": [
+      "unipasby.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unipasby.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Ahmad Dahlan",
+    "country": "Indonesia",
+    "domains": [
+      "uad.ac.id",
+      "pbi.uad.ac.id",
+      "psy.uad.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uad.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DI Yogyakarta"
+  },
+  {
+    "name": "IAIN Salatiga",
+    "country": "Indonesia",
+    "domains": [
+      "iainsalatiga.ac.id"
+    ],
+    "web_pages": [
+      "https://iainsalatiga.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Universitas Gadjah Mada",
+    "country": "Indonesia",
+    "domains": [
+      "gadjahmada.edu"
+    ],
+    "web_pages": [
+      "https://www.ugm.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DI Yogyakarta"
+  },
+  {
+    "name": "Universitas Prof. Dr. Moestopo (Beragama)",
+    "country": "Indonesia",
+    "domains": [
+      "moestopo.ac.id",
+      "dsn.moestopo.ac.id"
+    ],
+    "web_pages": [
+      "https://moestopo.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Bung Hatta",
+    "country": "Indonesia",
+    "domains": [
+      "bunghatta.ac.id"
+    ],
+    "web_pages": [
+      "https://bunghatta.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sumatera Barat"
+  },
+  {
+    "name": "UIN Sayyid Ali Rahmatullah Tulungagung",
+    "country": "Indonesia",
+    "domains": [
+      "uinsatu.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uinsatu.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Al-Azhar Indonesia",
+    "country": "Indonesia",
+    "domains": [
+      "uai.ac.id"
+    ],
+    "web_pages": [
+      "https://uai.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Mercu Buana Yogyakarta",
+    "country": "Indonesia",
+    "domains": [
+      "mercubuana-yogya.ac.id"
+    ],
+    "web_pages": [
+      "https://mercubuana-yogya.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DI Yogyakarta"
+  },
+  {
+    "name": "Poltekkes Kemenkes Jakarta I",
+    "country": "Indonesia",
+    "domains": [
+      "poltekkesjakarta1.ac.id"
+    ],
+    "web_pages": [
+      "https://poltekkesjakarta1.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Institut Teknologi Sumatera",
+    "country": "Indonesia",
+    "domains": [
+      "itera.ac.id",
+      "kl.itera.ac.id",
+      "gt.itera.ac.id"
+    ],
+    "web_pages": [
+      "https://www.itera.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Lampung"
+  },
+  {
+    "name": "Universitas Bunda Mulia",
+    "country": "Indonesia",
+    "domains": [
+      "bundamulia.ac.id"
+    ],
+    "web_pages": [
+      "https://www.bundamulia.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Widyagama Malang",
+    "country": "Indonesia",
+    "domains": [
+      "widyagama.ac.id"
+    ],
+    "web_pages": [
+      "https://widyagama.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas PGRI Yogyakarta",
+    "country": "Indonesia",
+    "domains": [
+      "upy.ac.id"
+    ],
+    "web_pages": [
+      "https://www.upy.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DI Yogyakarta"
+  },
+  {
+    "name": "IAIN / UIN Palopo",
+    "country": "Indonesia",
+    "domains": [
+      "uinpalopo.ac.id"
+    ],
+    "web_pages": [
+      "https://www.uinpalopo.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sulawesi Selatan"
+  },
+  {
+    "name": "Politeknik Negeri Medan",
+    "country": "Indonesia",
+    "domains": [
+      "polmed.ac.id"
+    ],
+    "web_pages": [
+      "https://www.polmed.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sumatera Utara"
+  },
+  {
+    "name": "Politeknik Mekatronika Sanata Dharma",
+    "country": "Indonesia",
+    "domains": [
+      "pmsd.ac.id"
+    ],
+    "web_pages": [
+      "https://www.pmsd.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DI Yogyakarta"
+  },
+  {
+    "name": "Universitas Kristen Maranatha",
+    "country": "Indonesia",
+    "domains": [
+      "maranatha.edu"
+    ],
+    "web_pages": [
+      "https://www.maranatha.edu/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Institut Ilmu Al-Qur'an (IIQ) Jakarta",
+    "country": "Indonesia",
+    "domains": [
+      "iiq.ac.id"
+    ],
+    "web_pages": [
+      "https://iiq.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Banten"
+  },
+  {
+    "name": "Universitas 17 Agustus 1945 Semarang",
+    "country": "Indonesia",
+    "domains": [
+      "untagsmg.ac.id"
+    ],
+    "web_pages": [
+      "https://untagsmg.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Universitas Islam Darul `Ulum Lamongan",
+    "country": "Indonesia",
+    "domains": [
+      "unisda.ac.id"
+    ],
+    "web_pages": [
+      "https://unisda.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Logistik dan Bisnis Internasional",
+    "country": "Indonesia",
+    "domains": [
+      "ulbi.ac.id"
+    ],
+    "web_pages": [
+      "https://www.ulbi.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "UIN Sunan Kalijaga",
+    "country": "Indonesia",
+    "domains": [
+      "uinsuku.ac.id"
+    ],
+    "web_pages": [
+      "https://uin-suka.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DI Yogyakarta"
+  },
+  {
+    "name": "Politeknik Pariwisata NHI Bandung",
+    "country": "Indonesia",
+    "domains": [
+      "poltekpar-nhi.ac.id"
+    ],
+    "web_pages": [
+      "https://poltekpar-nhi.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Poltekkes Kemenkes Tanjungkarang",
+    "country": "Indonesia",
+    "domains": [
+      "poltekkes-tjk.ac.id"
+    ],
+    "web_pages": [
+      "https://poltekkes-tjk.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Lampung"
+  },
+  {
+    "name": "Politeknik Negeri Tanah Laut",
+    "country": "Indonesia",
+    "domains": [
+      "politala.ac.id"
+    ],
+    "web_pages": [
+      "https://www.politala.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Kalimantan Selatan"
+  },
+  {
+    "name": "Politeknik Negeri Banjarmasin",
+    "country": "Indonesia",
+    "domains": [
+      "poliban.ac.id"
+    ],
+    "web_pages": [
+      "https://poliban.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Kalimantan Selatan"
+  },
+  {
+    "name": "IAIN Palangka Raya",
+    "country": "Indonesia",
+    "domains": [
+      "iain-palangkaraya.ac.id"
+    ],
+    "web_pages": [
+      "https://iain-palangkaraya.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Kalimantan Tengah"
+  },
+  {
+    "name": "STF Driyarkara",
+    "country": "Indonesia",
+    "domains": [
+      "driyarkara.ac.id"
+    ],
+    "web_pages": [
+      "https://driyarkara.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "STMIK Widya Cipta Dharma Samarinda",
+    "country": "Indonesia",
+    "domains": [
+      "wicida.ac.id"
+    ],
+    "web_pages": [
+      "https://www.wicida.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Kalimantan Timur"
+  },
+  {
+    "name": "Universitas Yudharta Pasuruan",
+    "country": "Indonesia",
+    "domains": [
+      "uym.ac.id"
+    ],
+    "web_pages": [
+      "https://uym.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Serang Raya",
+    "country": "Indonesia",
+    "domains": [
+      "unsera.ac.id"
+    ],
+    "web_pages": [
+      "https://www.unsera.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Banten"
+  },
+  {
+    "name": "Universitas Muhammadiyah Bandung",
+    "country": "Indonesia",
+    "domains": [
+      "umbandung.ac.id"
+    ],
+    "web_pages": [
+      "https://umbandung.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Sekolah Tinggi Teologi Reformed Injili Internasional",
+    "country": "Indonesia",
+    "domains": [
+      "sttrii.ac.id"
+    ],
+    "web_pages": [
+      "https://sttrii.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Politeknik Pelayaran Surabaya",
+    "country": "Indonesia",
+    "domains": [
+      "poltekpel-sby.ac.id"
+    ],
+    "web_pages": [
+      "https://poltekpel-sby.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Institut Agama Islam Al-Qur'an Ittifaqiah Ogan Ilir",
+    "country": "Indonesia",
+    "domains": [
+      "ittifaqiah.ac.id"
+    ],
+    "web_pages": [
+      "https://ittifaqiah.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sumatera Selatan"
+  },
+  {
+    "name": "Institut Teknologi Harapan Bangsa",
+    "country": "Indonesia",
+    "domains": [
+      "ithb.ac.id"
+    ],
+    "web_pages": [
+      "https://ithb.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Institut Ilmu Sosial dan Ilmu Politik Jakarta",
+    "country": "Indonesia",
+    "domains": [
+      "iisip.ac.id"
+    ],
+    "web_pages": [
+      "https://iisip.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Dian Nusantara",
+    "country": "Indonesia",
+    "domains": [
+      "undira.ac.id",
+      "dosen.undira.ac.id"
+    ],
+    "web_pages": [
+      "https://undira.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Ngudi Waluyo",
+    "country": "Indonesia",
+    "domains": [
+      "unw.ac.id"
+    ],
+    "web_pages": [
+      "https://unw.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Universitas Muhammadiyah Tangerang",
+    "country": "Indonesia",
+    "domains": [
+      "umt.ac.id"
+    ],
+    "web_pages": [
+      "https://umt.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Banten"
+  },
+  {
+    "name": "Universitas Bina Mandiri Gorontalo",
+    "country": "Indonesia",
+    "domains": [
+      "ubmg.ac.id"
+    ],
+    "web_pages": [
+      "https://ubmg.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Gorontalo"
+  },
+  {
+    "name": "Institut Teknologi & Bisnis Calvin",
+    "country": "Indonesia",
+    "domains": [
+      "calvin.ac.id"
+    ],
+    "web_pages": [
+      "https://calvin.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Teknologi Digital Indonesia",
+    "country": "Indonesia",
+    "domains": [
+      "utdi.ac.id"
+    ],
+    "web_pages": [
+      "https://utdi.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DI Yogyakarta"
+  },
+  {
+    "name": "Universitas Putra Indonesia YPTK Padang",
+    "country": "Indonesia",
+    "domains": [
+      "upiyptk.ac.id"
+    ],
+    "web_pages": [
+      "https://upiyptk.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sumatera Barat"
+  },
+  {
+    "name": "Universitas LIA",
+    "country": "Indonesia",
+    "domains": [
+      "universitaslia.ac.id"
+    ],
+    "web_pages": [
+      "https://universitaslia.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Universitas Tridinanti Palembang",
+    "country": "Indonesia",
+    "domains": [
+      "unitaspalembang.ac.id"
+    ],
+    "web_pages": [
+      "https://unitaspalembang.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sumatera Selatan"
+  },
+  {
+    "name": "Universitas Hasyim Asy'ari Tebuireng Jombang",
+    "country": "Indonesia",
+    "domains": [
+      "unhasy.ac.id"
+    ],
+    "web_pages": [
+      "https://unhasy.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "IAIN / UIN Kediri",
+    "country": "Indonesia",
+    "domains": [
+      "uinkediri.ac.id"
+    ],
+    "web_pages": [
+      "https://uinkediri.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Sebelas Maret",
+    "country": "Indonesia",
+    "domains": [
+      "uns.ac.is",
+      "student.uns.ac.is"
+    ],
+    "web_pages": [
+      "https://uns.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Universitas Nurtanio Bandung",
+    "country": "Indonesia",
+    "domains": [
+      "unc.ac.id",
+      "student.unc.ac.id"
+    ],
+    "web_pages": [
+      "https://unc.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Sekolah Tinggi Pariwisata Dian Mandala Banyuwangi",
+    "country": "Indonesia",
+    "domains": [
+      "stpdianmandala.ac.id"
+    ],
+    "web_pages": [
+      "https://stpdianmandala.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "STKIP PGRI Ponorogo",
+    "country": "Indonesia",
+    "domains": [
+      "stkippgriponorogo.ac.id"
+    ],
+    "web_pages": [
+      "https://stkippgriponorogo.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Politeknik Pariwisata Medan",
+    "country": "Indonesia",
+    "domains": [
+      "poltekparmedan.ac.id"
+    ],
+    "web_pages": [
+      "https://poltekparmedan.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Sumatera Utara"
+  },
+  {
+    "name": "Layanan Email Akademik",
+    "country": "Indonesia",
+    "domains": [
+      "gmail.ac.id"
+    ],
+    "web_pages": [
+      "https://gmail.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Indonesia"
+  },
+  {
+    "name": "Universitas Muhammadiyah Surabaya",
+    "country": "Indonesia",
+    "domains": [
+      "um-surabaya.ac.id",
+      "fai.um-surabaya.ac.id",
+      "lpaik.um-surabaya.ac.id"
+    ],
+    "web_pages": [
+      "https://um-surabaya.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Indonesia",
+    "country": "Indonesia",
+    "domains": [
+      "ui.edu",
+      "alumni.ui.edu"
+    ],
+    "web_pages": [
+      "https://www.ui.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Universitas Telogorejo Semarang",
+    "country": "Indonesia",
+    "domains": [
+      "universitastelogorejo.ac.id"
+    ],
+    "web_pages": [
+      "https://universitastelogorejo.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "UIN Syarif Hidayatullah Jakarta",
+    "country": "Indonesia",
+    "domains": [
+      "uinjkt.ac.ic"
+    ],
+    "web_pages": [
+      "https://www.uinjkt.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Banten"
+  },
+  {
+    "name": "Universitas Kadiri",
+    "country": "Indonesia",
+    "domains": [
+      "unik.ac.id",
+      "student.unik.ac.id"
+    ],
+    "web_pages": [
+      "https://unik-kediri.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "STAI Al-Falah Banjarbaru",
+    "country": "Indonesia",
+    "domains": [
+      "staialfaah.ac.id"
+    ],
+    "web_pages": [
+      "https://staialfalah.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Kalimantan Selatan"
+  },
+  {
+    "name": "Universitas Bakti Tunas Husada Tasikmalaya",
+    "country": "Indonesia",
+    "domains": [
+      "universitas-bth.ac.id",
+      "staf.universitas-bth.ac.id"
+    ],
+    "web_pages": [
+      "https://universitas-bth.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Barat"
+  },
+  {
+    "name": "Universitas Satyagama",
+    "country": "Indonesia",
+    "domains": [
+      "satyagama.ac.id"
+    ],
+    "web_pages": [
+      "https://satyagama.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  },
+  {
+    "name": "Politeknik Ilmu Pelayaran Semarang",
+    "country": "Indonesia",
+    "domains": [
+      "pip-semarang.ac.id"
+    ],
+    "web_pages": [
+      "https://pip-semarang.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "Maverick Education / Institusi",
+    "country": "Indonesia",
+    "domains": [
+      "maverick.ac.id"
+    ],
+    "web_pages": [
+      "https://maverick.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Indonesia"
+  },
+  {
+    "name": "International Hotel Management School (IHS) Surakarta",
+    "country": "Indonesia",
+    "domains": [
+      "ihs.ac.id",
+      "mail.ihs.ac.id"
+    ],
+    "web_pages": [
+      "https://ihs.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Tengah"
+  },
+  {
+    "name": "UIN K.H. Achmad Siddiq Jember",
+    "country": "Indonesia",
+    "domains": [
+      "uinkhas.ac.id",
+      "lecturer.uinkhas.ac.id"
+    ],
+    "web_pages": [
+      "https://uinkhas.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Jawa Timur"
+  },
+  {
+    "name": "Universitas Bali Dwipa",
+    "country": "Indonesia",
+    "domains": [
+      "balidwipa.ac.id"
+    ],
+    "web_pages": [
+      "https://balidwipa.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Bali"
+  },
+  {
+    "name": "Universitas Palangka Raya",
+    "country": "Indonesia",
+    "domains": [
+      "upr.ac.id",
+      "arch.upr.ac.id"
+    ],
+    "web_pages": [
+      "https://www.upr.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "Kalimantan Tengah"
+  }
+]

@@ -1,71 +1,39 @@
-# id-domain-checker
+# go-institution-domain-checker
 
-Library Go untuk memeriksa ketersediaan (*availability*) domain universitas (`.ac.id`) dan sekolah (`.sch.id`) di Indonesia berdasarkan dataset lokal JSON tanpa perlu *hit* soket WHOIS eksternal.
+[![Go Reference](https://pkg.go.dev/badge/github.com/prasetiyo28/go-institution-domain-checker/checker.svg)](https://pkg.go.dev/github.com/prasetiyo28/go-institution-domain-checker/checker)
+[![Go Report Card](https://goreportcard.com/badge/github.com/prasetiyo28/go-institution-domain-checker)](https://goreportcard.com/report/github.com/prasetiyo28/go-institution-domain-checker)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## ✨ Fitur
-
-- ⚡ **Pencarian $O(1)$ Instan:** Menggunakan pemetaan `map[string]*Institution` di memori.
-- 🚫 **Bebas Rate-Limit:** Tanpa melakukan koneksi jaringan atau *hit* server WHOIS PANDI.
-- 🔒 **Thread-Safe:** Dilengkapi `sync.RWMutex` sehingga aman digunakan dalam konkurensi goroutine / web server.
-- 🧹 **Pembersihan Otomatis (Sanitization):** Otomatis membersihkan protokol (`http://`, `https://`), `www.`, path trailing, dan huruf besar/kecil.
-- 🔍 **Detail Institusi:** Jika domain sudah terdaftar, mengembalikan informasi lengkap seperti nama institusi, provinsi, negara, dan situs resmi.
-- 🧪 **Unit Test Komprehensif:** Dilengkapi dengan test suite bawaan Go (`go test`).
+Library Go untuk memeriksa ketersediaan (*availability*) domain universitas dan sekolah di Indonesia (`.ac.id`, `.sch.id`, `.edu`, `.info`) berbasis data lokal in-memory tanpa perlu melakukan *hit* ke soket WHOIS eksternal atau server PANDI.
 
 ---
 
-## 📁 Struktur Direktori
+## ✨ Fitur Utama
 
-```text
-id-domain-checker/
-├── checker/
-│   ├── checker.go           # Logika core library
-│   └── checker_test.go      # Unit test
-├── indonesia_institutions.json # Dataset JSON universitas & sekolah Indonesia
-├── go.mod                   # Definisi Go module
-├── main.go                  # Contoh implementasi CLI
-└── README.md                # Dokumentasi
-```
+- 📦 **Zero-Configuration (`//go:embed`):** Dataset bawaan institusi pendidikan Indonesia (245+ kampus, 350+ domain) sudah ter-bundle langsung ke dalam pustaka Go. Siap pakai tanpa perlu menyalin file JSON.
+- ⚙️ **Dukungan Dataset Tambahan (`OTHER_INSTITUTIONS`):** Tambahkan institusi baru secara opsional lewat Environment Variable (file path atau raw JSON string) atau via kode.
+- ⚡ **Pencarian $O(1)$ Instan:** Menggunakan pemetaan `map[string]*Institution` di memori dengan fallback pencarian subdomain bertingkat (*hierarchical subdomain matching*).
+- 🚫 **Bebas Rate-Limit:** Berjalan 100% lokal di memori, tanpa ketergantungan koneksi jaringan atau batasan rate-limit WHOIS.
+- 🔒 **Thread-Safe:** Aman digunakan pada konkurensi goroutine tinggi (`sync.RWMutex`).
+- 🧹 **Sanitasi Otomatis:** Otomatis membersihkan protokol (`http://`, `https://`), prefiks `www.`, subpath trailing, dan normalisasi huruf kecil.
 
 ---
 
-## 🚀 Memulai Cepat
+## 📥 Instalasi
 
-### 1. Menjalankan Contoh Program
-
-```bash
-go run main.go
-```
-
-Output:
-```text
-==================================================
- Berhasil memuat 58 domain terdaftar
-==================================================
-[TAKEN]     ui.ac.id                         -> Universitas Indonesia (Jawa Barat)
-[AVAILABLE] kampus-antah-berantah.ac.id      -> Belum terdaftar (Bisa digunakan)
-[TAKEN]     sman1jakarta.sch.id              -> SMA Negeri 1 Jakarta (DKI Jakarta)
-[AVAILABLE] smk-negeri-pilihan.sch.id        -> Belum terdaftar (Bisa digunakan)
-[TAKEN]     itb.ac.id                        -> Institut Teknologi Bandung (Jawa Barat)
-[INVALID]   google.com                       -> domain 'google.com' bukan domain institusi pendidikan Indonesia yang valid (.ac.id / .sch.id)
-```
-
-### 2. Menjalankan Unit Test
-
-Jalankan pengujian dari folder project:
+Tambahkan modul ini ke proyek Go Anda:
 
 ```bash
-go test -v ./checker/...
-```
-
-Untuk melihat cakupan kode (*test coverage*):
-
-```bash
-go test -cover ./checker/...
+go get github.com/prasetiyo28/go-institution-domain-checker/checker
 ```
 
 ---
 
-## 🛠️ Contoh Kode Penggunaan
+## 🚀 Cara Penggunaan
+
+### 1. Penggunaan Standar (Zero-Configuration)
+
+Cukup panggil `checker.NewDefault()` untuk menggunakan dataset resmi bawaan:
 
 ```go
 package main
@@ -74,49 +42,156 @@ import (
 	"fmt"
 	"log"
 
-	"id-domain-checker/checker"
+	"github.com/prasetiyo28/go-institution-domain-checker/checker"
 )
 
 func main() {
-	c := checker.NewListChecker()
-
-	// Muat dataset dari file JSON
-	if err := c.LoadFromFile("indonesia_institutions.json"); err != nil {
-		log.Fatalf("Error: %v", err)
+	// Inisialisasi checker dengan dataset bawaan
+	c, err := checker.NewDefault()
+	if err != nil {
+		log.Fatalf("Gagal inisialisasi checker: %v", err)
 	}
 
-	// Periksa ketersediaan domain
-	res, err := c.CheckAvailability("ui.ac.id")
+	// Periksa domain (mendukung root domain maupun subdomain)
+	res, err := c.CheckAvailability("itb.ac.id")
 	if err != nil {
-		log.Println("Domain tidak valid:", err)
-		return
+		log.Fatalf("Domain tidak valid: %v", err)
 	}
 
 	if res.IsAvailable {
-		fmt.Printf("Domain %s tersedia!\n", res.Domain)
+		fmt.Printf("✅ Domain %s belum terdaftar (Bisa digunakan)\n", res.Domain)
 	} else {
-		fmt.Printf("Domain %s sudah dipakai oleh %s\n", res.Domain, res.Institution.Name)
+		fmt.Printf("❌ Domain %s sudah terdaftar untuk %s (%s)\n",
+			res.Domain,
+			res.Institution.Name,
+			res.Institution.StateProvince,
+		)
 	}
 }
 ```
 
 ---
 
-## 📊 Skema JSON Dataset
+## 🧩 Menambahkan Institusi Tambahan (`OTHER_INSTITUTIONS`)
 
-Dataset menggunakan skema *array of objects*:
+Anda dapat memperluas atau menambahkan institusi secara opsional tanpa perlu mengubah kode library.
 
+### Format JSON yang Didukung
+
+Struktur data harus berupa **JSON Array of Objects**:
+
+#### Format Minimal (Hanya Field Wajib)
 ```json
 [
   {
-    "name": "Universitas Gadjah Mada",
-    "country": "Indonesia",
-    "domains": ["ugm.ac.id"],
-    "web_pages": ["https://www.ugm.ac.id/"],
-    "alpha_two_code": "ID",
-    "state-province": "DI Yogyakarta"
+    "name": "Institut Teknologi Kustom",
+    "domains": [
+      "itkustom.ac.id"
+    ]
+  },
+  {
+    "name": "SMK Unggulan Baru",
+    "domains": [
+      "smkunggulan.sch.id"
+    ]
   }
 ]
 ```
 
-Lisensi: MIT
+#### Format Lengkap (Dengan Metadata Opsional)
+```json
+[
+  {
+    "name": "Universitas Mandiri Nusantara",
+    "country": "Indonesia",
+    "domains": [
+      "umn-contoh.ac.id",
+      "kampus.umn-contoh.ac.id"
+    ],
+    "web_pages": [
+      "https://www.umn-contoh.ac.id/"
+    ],
+    "alpha_two_code": "ID",
+    "state-province": "DKI Jakarta"
+  }
+]
+```
+
+---
+
+### Cara Mengaktifkan
+
+#### Opsi A: Menggunakan Environment Variable (Rekomendasi)
+
+Setel `OTHER_INSTITUTIONS` pada environment server / file `.env`:
+
+```bash
+# 1. Mengarahkan ke file JSON lokal
+export OTHER_INSTITUTIONS="/app/config/custom_institutions.json"
+
+# 2. Atau langsung berupa raw JSON string
+export OTHER_INSTITUTIONS='[{"name":"Poltek Swasta","domains":["poltekswasta.ac.id"]}]'
+```
+
+Di dalam kode Go, `checker.NewDefault()` akan otomatis mendeteksi dan menggabungkan data tersebut:
+```go
+c, err := checker.NewDefault()
+```
+
+#### Opsi B: Menggunakan Functional Option via Kode Go
+
+```go
+c, err := checker.NewDefault(
+    checker.WithAdditionalFile("./my_institutions.json"),
+)
+```
+
+Atau menggunakan `io.Reader`:
+```go
+c, err := checker.NewDefault(
+    checker.WithAdditionalReader(myReader),
+)
+```
+
+---
+
+## 💻 Menjalankan Contoh CLI
+
+Repositori ini menyertakan command-line interface (CLI) bawaan untuk pengujian langsung:
+
+```bash
+# Menjalankan domain demo bawaan
+go run cmd/checker/main.go
+
+# Memeriksa domain tertentu via argumen CLI
+go run cmd/checker/main.go ui.ac.id mail.ugm.ac.id kampus-baru.ac.id
+```
+
+Output:
+```text
+==================================================
+ Berhasil memuat 354 domain terdaftar
+==================================================
+[TAKEN]     ui.ac.id                         -> Universitas Indonesia (Jawa Barat)
+[TAKEN]     mail.ugm.ac.id                   -> Universitas Gadjah Mada (DI Yogyakarta)
+[AVAILABLE] kampus-baru.ac.id                -> Belum terdaftar (Bisa digunakan)
+```
+
+---
+
+## 🧪 Menjalankan Pengujian (Unit Tests)
+
+```bash
+go test -v ./...
+```
+
+Untuk melihat cakupan tes (*coverage*):
+```bash
+go test -cover ./...
+```
+
+---
+
+## 📄 Lisensi
+
+Proyek ini dilisensikan di bawah lisensi [MIT](LICENSE).
